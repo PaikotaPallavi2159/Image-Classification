@@ -1,6 +1,6 @@
 task 3
 
-Image Classification
+#Image Classification
 
 "COMPANY" : CODETECH IT SOLUTIONS
 
